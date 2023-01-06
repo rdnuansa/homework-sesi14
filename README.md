@@ -13,4 +13,5 @@ Shared repository untuk pengerjaan homework materi Studi DevOps Batch #4
 - Lakukan commit beberapa kali.
 - Push semua commit kalian ke remote repository ini.
 - Buatlah PR (Pull Request) untuk menggabungkan (merge) perubahan yang kalian buat ke `master` branch di repository ini.
-- Jika PR milik kalian sudah di-approve, maka sudah sudah dapat dikatakan tugas kalian selesai.
+- Jika PR sudah di-approve, silahkan teman-teman lakukan merge.
+- Cek dan pastikan commits/changes milik kalian sudah merged ke dalam master branch. Jika sudah, selamat! Anda sudah berhasil mempraktikan collaborative workflow in GitHub.
